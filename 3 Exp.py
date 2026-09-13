@@ -8,25 +8,27 @@ Displaying the length of the list
 Popping an element 
 Clearing the list 
  '''''
-list=[1,2,3,4,5]
-print ("original list: ",list)
-print("appending 6 to list ")
-list.append(6)
-print("appended list:", list)
+My_list=[1,2,3,5,6]
+print ("original list:",My_list)
 
-print("inserting 10 at 2 index ")
-list.insert(2,10)
-print("inserted list: ", list)
+print("appending 6 to list")
+My_list.append(7)
+print("appended list:",My_list)
 
-print("removing 2 from list ")
-list.remove(2)
-print("removed list: ", list)
+print("inserting 4 at 3 index ")
+My_list.insert(3,4)
+print("inserted list: ", My_list)
 
-print("length of list: ",len(list))
-print("popping 4 from list ")
-list.pop(4)
-print("popped list: ", list)
+print("removing 1 from list ")
+My_list.remove(1)
+print("removed list:", My_list)
+
+print("length of list: ",len(My_list))
+
+print("popping index 4 from list ")
+My_list.pop(4)
+print("popped list: ", My_list)
 
 print("clearing list ")
-list.clear()
-print("cleared list: ", list)
+My_list.clear()
+print("cleared list: ", My_list)
