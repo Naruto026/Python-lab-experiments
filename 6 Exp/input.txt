@@ -1,0 +1,12 @@
+zebra
+apple
+
+mango
+banana
+orange
+
+grapes
+cherry
+pineapple
+avocado
+watermelon
