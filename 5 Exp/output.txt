@@ -1,0 +1,10 @@
+python         6
+is             5
+programming    3
+easy           2
+to             1
+learn          1
+powerful       1
+and            1
+popular        1
+learning       1
